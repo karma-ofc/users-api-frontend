@@ -17,7 +17,7 @@
 - `GET /api/users/:id` - получить пользователя
 - `PATCH /api/users/:id` - обновить
 - `DELETE /api/users/:id` - удалить
-Практическая 20
+Практическая 20 - [MONGODB](https://github.com/karma-ofc/users-api-frontend-mongo)
 БД
 <img width="361" height="81" alt="{33952D4C-2BBA-4272-9246-5AA0ABBEED40}" src="https://github.com/user-attachments/assets/58864797-0864-431e-90d9-659126f5453a" />
 Поля 
