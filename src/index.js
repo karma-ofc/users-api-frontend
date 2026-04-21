@@ -6,6 +6,14 @@ dotenv.config();
 
 const app = express();
 app.use(express.json());
+// Set a permissive Content Security Policy for development to allow DevTools/connects to localhost
+app.use((req, res, next) => {
+  res.setHeader('Content-Security-Policy', "default-src 'self'; connect-src 'self' http://localhost:3000");
+  next();
+});
+
+// Simple root route to avoid 404 on /
+app.get('/', (req, res) => res.json({ message: 'OK' }));
 
 app.post('/api/users', async (req, res) => {
   try {
