@@ -21,7 +21,6 @@
 БД
 <img width="361" height="81" alt="{33952D4C-2BBA-4272-9246-5AA0ABBEED40}" src="https://github.com/user-attachments/assets/58864797-0864-431e-90d9-659126f5453a" />
 Поля 
-<img width="1309" height="624" alt="{D0E9E808-A285-425B-84C0-3A1C397EE1D4}" src="https://github.com/user-attachments/assets/a1f6e175-c045-419b-9d63-d487c5ef5d92" />
 <img width="1284" height="620" alt="{54B65911-1549-4CA2-A586-5CAD8B9E0EB9}" src="https://github.com/user-attachments/assets/979d2498-2349-4541-84ab-15ce7b1f8c76" />
 <img width="1309" height="624" alt="{D0E9E808-A285-425B-84C0-3A1C397EE1D4}" src="https://github.com/user-attachments/assets/1ccf28a2-cde8-4aaa-b2e5-b55613c81c66" />
 
